@@ -1,12 +1,18 @@
 # CallPhoneDavidApp
 【Android】Android开发初学者实现拨打电话的功能，拨打电话app应用，电话拨号器
+
 作者：程序员小冰，GitHub主页：https://github.com/QQ986945193 
+
 新浪微博：http://weibo.com/mcxiaobing
+
 首先先给大家看一下最终实现的效果:
+
 ![这里写图片描述](http://img.blog.csdn.net/20160907102033375)
 
 其实这个案例的demo实在是太简单了。不过此功能也是非常强大，用处挺多的，
+
 就像所谓的蚂蚁虽小，五脏俱全。我们可以用它集成在我们的app中。
+
 拨打客服电话之类的。所以下面看代码吗，首先我们写好布局：
 
 ```
@@ -32,6 +38,7 @@
 ```
 
 然后java代码中实现拨打电话的功能
+
 `package davidappcheckupdate.qq986945193.com.callphonedavidapp;
 
 import android.Manifest;
