@@ -99,4 +99,4 @@ public class MainActivity extends AppCompatActivity {
  <uses-permission android:name="android.permission.CALL_PHONE" />
 
 ```
-好了，教程到此结束。
+好了，介绍到此结束。直接运行项目文件即可看到上面的效果。如果对您有帮助，欢迎star，fork。。。
